@@ -34,4 +34,7 @@ The project creation process followed these steps:
 
 ## Screenshots da análise do Copilot 🏞️
 
-![screenshot1]()
+![screenshot1](https://github.com/Luisaphysics22/text_-recognition_-historical_-documents/blob/main/output/Screenshots/Screenshot%202024-08-04%20104855.png)
+![screenshot2](https://github.com/Luisaphysics22/text_-recognition_-historical_-documents/blob/main/output/Screenshots/Screenshot%202024-08-04%20104914.png)
+![screenshot3](https://github.com/Luisaphysics22/text_-recognition_-historical_-documents/blob/main/output/Screenshots/Screenshot%202024-08-04%20104932.png)
+![sreenshot4](https://github.com/Luisaphysics22/text_-recognition_-historical_-documents/blob/main/output/Screenshots/Screenshot%202024-08-04%20104943.png)
